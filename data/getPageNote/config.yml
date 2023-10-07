@@ -1,0 +1,5 @@
+path: '/v3/notesvr/set/noteinfo'
+mustKeys: ['noteId', 'star', 'remindType']
+optionKeys: ['star', 'remindTime']
+base: {}
+headersBase: {}
